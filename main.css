@@ -1,0 +1,25 @@
+.firstCard {
+    border: 1px solid black;;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+
+}
+.cards{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+h1 {
+    font-weight: 200;
+    font-size: 17px;
+    line-height: 23px;
+}
+h2 {
+    font-weight: 200;
+    font-size: 14px;
+    line-height: 23px;
+}
+.delete {
+    cursor: pointer;
+}
